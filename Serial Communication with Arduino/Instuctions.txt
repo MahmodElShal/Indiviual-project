@@ -1,0 +1,3 @@
+This folder contains all the required files for setting up the serial communication with the Arduino Uno.
+example_joystick3 is used to register the data sent from the Unitree Bluetooth Controller and send it serially to the attached Arduino board.
+For more information check the following Tutorial: https://youtu.be/uHw7QyL4CM8
